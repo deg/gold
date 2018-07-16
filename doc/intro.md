@@ -1,3 +1,3 @@
-# Introduction to sodium
+# Introduction to Gold
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
